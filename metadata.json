@@ -1,0 +1,6 @@
+{
+  "name": "AIGC精品短剧《台湾！台湾！》项目",
+  "description": "AIGC精品短剧《台湾！台湾！》项目融资与推介官方网站，展示产品功能、创新制作、商业模式、投资回报及项目推进里程碑。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
